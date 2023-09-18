@@ -2,11 +2,15 @@
 
 This is a mobile restaurant menu application designed to showcase Flutter development skills. The main goal is to provide an intuitive user experience, allowing users to explore various menu items seamlessly.
 
+<img src="./screenshot.png" width="300"/>
+
+
 ## Features
 
 - Beautifully laid-out mobile restaurant menu.
 - Implemented using Flutter for cross-platform compatibility.
 - Utilizes [GetX](https://pub.dev/packages/get) for state management.
+
 
 ## Prerequisites
 
